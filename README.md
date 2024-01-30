@@ -4,7 +4,7 @@
 This project uses the Pixela API to track daily cycling activities. Users can create an account, define a graph, post values to the graph, update values, and even delete entries. The goal is to help users visualize and monitor their cycling progress over time.
 
 ## screenshot
-<img src="./Stock-trading-alerts-twilio/pixel2.jpg">
+<img src="./Habbit-Tracking-App/pixel.png" >
 
 ## Setup
 1. Install required libraries:
@@ -45,7 +45,9 @@ This project fetches daily stock prices using the Alpha Vantage API and checks f
 
 ## screenshot
 
-<img src="./Stock-trading-alerts-twilio/pixel2.jpg">
+<p align="center">
+  <img src="./Stock-trading-alerts-twilio/pixel2.jpg" width="300">
+</p>
 ## Setup
 1. Install required libraries:
     ```bash
